@@ -12,11 +12,11 @@ You can browse trough the files and see the examples in action.
 
 ### Algorithms
 
-- Array filter
+- [Array filter](https://github.com/lfernandogcruz/algorithms-test/tree/main/array-filtering)
 
-- Calculator
+- [Calculator](https://github.com/lfernandogcruz/algorithms-test/tree/main/calculator)
 
-- ID generator
+- [ID generator](https://github.com/lfernandogcruz/algorithms-test/tree/main/id-generator)
 
 
 
@@ -35,11 +35,11 @@ Você pode navegar pelos arquivos e ver os exemplos em ação.
 
 ### Algoritmos
 
-- Array filter
+- [Array filter](https://github.com/lfernandogcruz/algorithms-test/tree/main/array-filtering)
 
-- Calculator
+- [Calculator](https://github.com/lfernandogcruz/algorithms-test/tree/main/calculator)
 
-- ID generator
+- [ID generator](https://github.com/lfernandogcruz/algorithms-test/tree/main/id-generator)
 
 
 [Voltar ao topo ↑](#top)
